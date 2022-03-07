@@ -40,6 +40,14 @@
                     "origin.com"
                 ]
             }
+        },
+        {
+            "name": "asdasd",
+            "origin": {
+                "address": [
+                    "asdasd"
+                ]
+            }
         }
     ],
     "env": {
