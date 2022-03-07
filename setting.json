@@ -16,6 +16,14 @@
                     "hello.winesoft.co.kr"
                 ]
             }
+        },
+        {
+            "name": "abc",
+            "origin": {
+                "address": [
+                    "edf"
+                ]
+            }
         }
     ],
     "env": {
